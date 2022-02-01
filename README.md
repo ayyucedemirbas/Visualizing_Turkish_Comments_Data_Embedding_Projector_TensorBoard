@@ -1,5 +1,8 @@
 # Visualizing_Turkish_Comments_Data_Embedding_Projector_TensorBoard
 
+Dataset: http://buyukveri.firat.edu.tr/wp-content/uploads/2020/09/emotion_dataset_v1.zip
+
+
 ![image](https://user-images.githubusercontent.com/8023150/151894113-ad5829a2-8cb8-4f96-a652-e1f2a157d283.png)
 
 
